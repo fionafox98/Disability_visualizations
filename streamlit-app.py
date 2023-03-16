@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from altair import datum
-df = pd.read_csv("~/Downloads/dataforproj.csv")
+df = pd.read_csv("dataforproj.csv")
 
 hp_mpg=alt.Chart(df).mark_bar().encode(
     y='HS:Q',
