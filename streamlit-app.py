@@ -16,15 +16,9 @@ selectOrigin=alt.selection_single(
     init={"Type":origins[0]},
     bind=alt.binding_select(options=origins),
     on="keyup", #disable
-    clear="false"
+    clear="false")
 
-chart = hp_mpg.encode(color="Region:N",tooltip='HS:Q').add_selection(
-    selectOrigin
-).transform_filter(
-    selectOrigin
-).properties(
-    title='Percent of High School Graduates by Region with Different Types of Disabilities',
-    width=200,
-    height=300
-)
+chart = hp_mpg.encode(color="Region:N",tooltip='HS:Q').add_selection(selectOrigin).transform_filter(selectOrigin).properties(
+    title='Percent of High School Graduates by Region with Different Types of Disabilities')
+    
 st.altair_chart(chart, theme='streamlit')
