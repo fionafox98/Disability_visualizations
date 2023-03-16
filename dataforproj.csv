@@ -1,0 +1,205 @@
+﻿Year,LocationAbbr,LocationDesc,Have_HC_coverage,Type,HS,Region
+2020,AL,Alabama,171066,Vision,64.5,South
+2020,AK,Alaska,17033,Vision,73.4,West
+2020,AZ,Arizona,208649,Vision,61.8,West
+2020,AR,Arkansas,128956,Vision,64.3,South
+2020,CA,California,1105945,Vision,53.6,West
+2020,CO,Colorado,121322,Vision,61.2,West
+2020,CT,Connecticut,91439,Vision,64.5,Northeast
+2020,DE,Delaware,33242,Vision,63.1,Northeast
+2020,DC,District of Columbia,23705,Vision,56.3,Northeast
+2020,FL,Florida,641463,Vision,67.2,South
+2020,GA,Georgia,310183,Vision,68.8,South
+2020,HI,Hawaii,42623,Vision,59.3,West
+2020,ID,Idaho,61668,Vision,65.4,West
+2020,IL,Illinois,420034,Vision,58.2,Midwest
+2020,IN,Indiana,219419,Vision,62.8,Midwest
+2020,IA,Iowa,59981,Vision,68.1,Midwest
+2020,KS,Kansas,84244,Vision,60.3,Midwest
+2020,KY,Kentucky,217003,Vision,61.5,South
+2020,LA,Louisiana,231229,Vision,55.1,South
+2020,ME,Maine,43431,Vision,69.2,Northeast
+2020,MD,Maryland,123422,Vision,54.1,Northeast
+2020,MA,Massachusetts,191132,Vision,52,Northeast
+2020,MI,Michigan,268130,Vision,64.2,Midwest
+2020,MN,Minnesota,115579,Vision,57.5,Midwest
+2020,MS,Mississippi,136747,Vision,64,South
+2020,MO,Missouri,179796,Vision,65.3,South
+2020,MT,Montana,33537,Vision,70.8,West
+2020,NE,Nebraska,40756,Vision,61.8,Midwest
+2020,NV,Nevada,141515,Vision,69.3,West
+2020,NH,New Hampshire,36338,Vision,56.4,Northeast
+2020,NJ,New Jersey,238217,Vision,58.4,Northeast
+2020,NM,New Mexico,77436,Vision,58.1,West
+2020,NY,New York,522290,Vision,58.5,Northeast
+2020,NC,North Carolina,427607,Vision,65.4,South
+2020,ND,North Dakota,18657,Vision,67.1,Midwest
+2020,OH,Ohio,355367,Vision,58.6,Midwest
+2020,OK,Oklahoma,176274,Vision,66.7,South
+2020,OR,Oregon,143654,Vision,65.8,West
+2020,PA,Pennsylvania,345869,Vision,65.9,Northeast
+2020,RI,Rhode Island,35792,Vision,71.2,Northeast
+2020,SC,South Carolina,249161,Vision,61.4,South
+2020,SD,South Dakota,22162,Vision,60.5,Midwest
+2020,TN,Tennessee,282151,Vision,62.3,South
+2020,TX,Texas,781728,Vision,60.7,South
+2020,UT,Utah,52403,Vision,73.2,West
+2020,VT,Vermont,16769,Vision,52,Northeast
+2020,VA,Virginia,182002,Vision,58.3,South
+2020,WA,Washington,172377,Vision,65.5,West
+2020,WV,West Virginia,80567,Vision,68.8,South
+2020,WI,Wisconsin,123794,Vision,59.3,Midwest
+2020,WY,Wyoming,18297,Vision,72.2,West
+2020,AL,Alabama,551210,Mobility,61.5,South
+2020,AK,Alaska,44832,Mobility,74.4,West
+2020,AZ,Arizona,589917,Mobility,59.6,West
+2020,AR,Arkansas,371409,Mobility,71.2,South
+2020,CA,California,2713382,Mobility,54.2,West
+2020,CO,Colorado,311518,Mobility,66.1,West
+2020,CT,Connecticut,264269,Mobility,60.8,Northeast
+2020,DE,Delaware,80605,Mobility,64.1,Northeast
+2020,DC,District of Columbia,49352,Mobility,60.6,Northeast
+2020,FL,Florida,2034243,Mobility,62.8,South
+2020,GA,Georgia,833979,Mobility,62.4,South
+2020,HI,Hawaii,92815,Mobility,64.6,West
+2020,ID,Idaho,148404,Mobility,68.3,West
+2020,IL,Illinois,1120779,Mobility,68.3,Midwest
+2020,IN,Indiana,633046,Mobility,68.5,Midwest
+2020,IA,Iowa,223264,Mobility,68,Midwest
+2020,KS,Kansas,236889,Mobility,67,Midwest
+2020,KY,Kentucky,577380,Mobility,63.8,South
+2020,LA,Louisiana,511714,Mobility,56.7,South
+2020,ME,Maine,128650,Mobility,71.1,Northeast
+2020,MD,Maryland,380303,Mobility,54.9,Northeast
+2020,MA,Massachusetts,544328,Mobility,66,Northeast
+2020,MI,Michigan,969249,Mobility,72.2,Midwest
+2020,MN,Minnesota,347133,Mobility,69.3,Midwest
+2020,MS,Mississippi,371353,Mobility,63.8,South
+2020,MO,Missouri,625803,Mobility,60.4,South
+2020,MT,Montana,91823,Mobility,66.1,West
+2020,NE,Nebraska,121299,Mobility,67.5,Midwest
+2020,NV,Nevada,319721,Mobility,66.2,West
+2020,NH,New Hampshire,96772,Mobility,64.2,Northeast
+2020,NJ,New Jersey,613133,Mobility,56.4,Northeast
+2020,NM,New Mexico,194649,Mobility,62.6,West
+2020,NY,New York,1556592,Mobility,53.3,Northeast
+2020,NC,North Carolina,1001653,Mobility,64.5,South
+2020,ND,North Dakota,54015,Mobility,64.6,Midwest
+2020,OH,Ohio,1086924,Mobility,66.8,Midwest
+2020,OK,Oklahoma,432182,Mobility,68.7,South
+2020,OR,Oregon,370213,Mobility,65.5,West
+2020,PA,Pennsylvania,1261391,Mobility,65.9,Northeast
+2020,RI,Rhode Island,83654,Mobility,65.4,Northeast
+2020,SC,South Carolina,606190,Mobility,71.4,South
+2020,SD,South Dakota,61158,Mobility,76.5,Midwest
+2020,TN,Tennessee,694566,Mobility,63.9,South
+2020,TX,Texas,1928828,Mobility,69.1,South
+2020,UT,Utah,172475,Mobility,67.7,West
+2020,VT,Vermont,44353,Mobility,72.3,Northeast
+2020,VA,Virginia,627777,Mobility,62,South
+2020,WA,Washington,491084,Mobility,66,West
+2020,WV,West Virginia,250477,Mobility,67.9,South
+2020,WI,Wisconsin,404543,Mobility,58.5,Midwest
+2020,WY,Wyoming,38820,Mobility,62.5,West
+2020,AL,Alabama,241204,Hearing,61.2,South
+2020,AK,Alaska,35152,Hearing,64.8,West
+2020,AZ,Arizona,308386,Hearing,64.8,West
+2020,AR,Arkansas,164302,Hearing,68.1,South
+2020,CA,California,1470075,Hearing,66.6,West
+2020,CO,Colorado,180327,Hearing,57.9,West
+2020,CT,Connecticut,141388,Hearing,55.7,Northeast
+2020,DE,Delaware,41119,Hearing,60.2,Northeast
+2020,DC,District of Columbia,16906,Hearing,55.9,Northeast
+2020,FL,Florida,969378,Hearing,61.8,South
+2020,GA,Georgia,390612,Hearing,62.3,South
+2020,HI,Hawaii,59806,Hearing,60.5,West
+2020,ID,Idaho,109577,Hearing,73.1,West
+2020,IL,Illinois,645200,Hearing,67.4,Midwest
+2020,IN,Indiana,312346,Hearing,64.7,Midwest
+2020,IA,Iowa,144258,Hearing,69.5,Midwest
+2020,KS,Kansas,138367,Hearing,71.8,Midwest
+2020,KY,Kentucky,326908,Hearing,73.1,South
+2020,LA,Louisiana,256590,Hearing,59.2,South
+2020,ME,Maine,89566,Hearing,72.6,Northeast
+2020,MD,Maryland,189994,Hearing,55.1,Northeast
+2020,MA,Massachusetts,271250,Hearing,54.1,Northeast
+2020,MI,Michigan,433085,Hearing,74.8,Midwest
+2020,MN,Minnesota,235947,Hearing,66.6,Midwest
+2020,MS,Mississippi,175712,Hearing,67,South
+2020,MO,Missouri,366309,Hearing,68.9,South
+2020,MT,Montana,78769,Hearing,70.9,West
+2020,NE,Nebraska,90270,Hearing,63.7,Midwest
+2020,NV,Nevada,142121,Hearing,77.2,West
+2020,NH,New Hampshire,62682,Hearing,63.9,Northeast
+2020,NJ,New Jersey,273666,Hearing,44,Northeast
+2020,NM,New Mexico,112017,Hearing,60.4,West
+2020,NY,New York,637989,Hearing,66.8,Northeast
+2020,NC,North Carolina,583304,Hearing,65.3,South
+2020,ND,North Dakota,47926,Hearing,67.5,Midwest
+2020,OH,Ohio,536131,Hearing,66.2,Midwest
+2020,OK,Oklahoma,258487,Hearing,60.8,South
+2020,OR,Oregon,237779,Hearing,61.8,West
+2020,PA,Pennsylvania,669000,Hearing,70.2,Northeast
+2020,RI,Rhode Island,46669,Hearing,51,Northeast
+2020,SC,South Carolina,283700,Hearing,61,South
+2020,SD,South Dakota,48448,Hearing,67.9,Midwest
+2020,TN,Tennessee,364397,Hearing,64.8,South
+2020,TX,Texas,1085864,Hearing,62.6,South
+2020,UT,Utah,114057,Hearing,65.9,West
+2020,VT,Vermont,31964,Hearing,67.1,Northeast
+2020,VA,Virginia,304939,Hearing,54.4,South
+2020,WA,Washington,323200,Hearing,65.4,West
+2020,WV,West Virginia,124295,Hearing,64.9,South
+2020,WI,Wisconsin,213788,Hearing,66.2,Midwest
+2020,WY,Wyoming,37702,Hearing,70.8,West
+2020,AL,Alabama,424853,Cognitive,60.5,South
+2020,AK,Alaska,34241,Cognitive,68.9,West
+2020,AZ,Arizona,425447,Cognitive,64.4,West
+2020,AR,Arkansas,265320,Cognitive,69.1,South
+2020,CA,California,2420357,Cognitive,56.2,West
+2020,CO,Colorado,295169,Cognitive,66,West
+2020,CT,Connecticut,214472,Cognitive,57.5,Northeast
+2020,DE,Delaware,64405,Cognitive,72.2,Northeast
+2020,DC,District of Columbia,54615,Cognitive,57.4,Northeast
+2020,FL,Florida,1370557,Cognitive,63.9,South
+2020,GA,Georgia,656145,Cognitive,66.7,South
+2020,HI,Hawaii,69508,Cognitive,67.2,West
+2020,ID,Idaho,129940,Cognitive,76.1,West
+2020,IL,Illinois,688137,Cognitive,62.9,Midwest
+2020,IN,Indiana,470492,Cognitive,63.7,Midwest
+2020,IA,Iowa,204101,Cognitive,70.4,Midwest
+2020,KS,Kansas,194911,Cognitive,63.7,Midwest
+2020,KY,Kentucky,475856,Cognitive,69.1,South
+2020,LA,Louisiana,453241,Cognitive,56.4,South
+2020,ME,Maine,109266,Cognitive,67.1,Northeast
+2020,MD,Maryland,309153,Cognitive,60.6,Northeast
+2020,MA,Massachusetts,469788,Cognitive,59.8,Northeast
+2020,MI,Michigan,861637,Cognitive,66.2,Midwest
+2020,MN,Minnesota,323363,Cognitive,65.9,Midwest
+2020,MS,Mississippi,258332,Cognitive,64.6,South
+2020,MO,Missouri,495356,Cognitive,67.2,South
+2020,MT,Montana,76694,Cognitive,68.2,West
+2020,NE,Nebraska,93558,Cognitive,71,Midwest
+2020,NV,Nevada,228043,Cognitive,69.9,West
+2020,NH,New Hampshire,83169,Cognitive,68.1,Northeast
+2020,NJ,New Jersey,444832,Cognitive,57.6,Northeast
+2020,NM,New Mexico,156899,Cognitive,56.6,West
+2020,NY,New York,1134284,Cognitive,58.4,Northeast
+2020,NC,North Carolina,733959,Cognitive,65.9,South
+2020,ND,North Dakota,49294,Cognitive,76.3,Midwest
+2020,OH,Ohio,831563,Cognitive,65.8,Midwest
+2020,OK,Oklahoma,301089,Cognitive,69.5,South
+2020,OR,Oregon,331581,Cognitive,67.9,West
+2020,PA,Pennsylvania,960795,Cognitive,64.8,Northeast
+2020,RI,Rhode Island,76717,Cognitive,60.3,Northeast
+2020,SC,South Carolina,481152,Cognitive,68.4,South
+2020,SD,South Dakota,43201,Cognitive,73.4,Midwest
+2020,TN,Tennessee,517503,Cognitive,68,South
+2020,TX,Texas,1480865,Cognitive,63.1,South
+2020,UT,Utah,202145,Cognitive,68.6,West
+2020,VT,Vermont,38786,Cognitive,68.8,Northeast
+2020,VA,Virginia,504231,Cognitive,61.1,South
+2020,WA,Washington,470567,Cognitive,68.8,West
+2020,WV,West Virginia,184347,Cognitive,69,South
+2020,WI,Wisconsin,370118,Cognitive,66.7,Midwest
+2020,WY,Wyoming,26076,Cognitive,70.4,West
